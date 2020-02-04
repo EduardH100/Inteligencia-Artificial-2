@@ -1,2 +1,2 @@
 Actividad 1:
-Perceptron
+Perceptron IA2
